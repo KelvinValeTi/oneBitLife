@@ -125,8 +125,6 @@ export default function HabitPage({route}){
                                     height={50}
                                 />
                             </View>
-
-
                         )}
 
                     </View>
